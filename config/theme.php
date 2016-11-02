@@ -82,7 +82,7 @@ return [
                 "class"  => "footer-column",
                 "columns" => [
                     [
-                        "contentRoute" => "block/footer-col-1",
+                        "contentRoute" => "block/byline",
                     ],
                     [
                         "contentRoute" => "block/footer-col-2",
