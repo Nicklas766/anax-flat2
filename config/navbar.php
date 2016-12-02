@@ -27,12 +27,6 @@ return [
                 "title" => t("About this website")
             ],
 
-            "test" => [
-                "text"  => t("test"),
-                "url"   => $this->di->get("url")->create("test"),
-                "title" => t("test this website")
-            ],
-
             "grid" => [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
@@ -57,6 +51,17 @@ return [
                 "title" => t("Theme this website")
             ],
 
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("blogg")
+            ],
+
+            "images" => [
+                "text"  => t("Images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("images")
+            ],
 
 
 
@@ -117,6 +122,18 @@ return [
             "Theme" => [
                 "text"  => t("theme"),
                 "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("theme this website")
+            ],
+
+            "Blogg" => [
+                "text"  => t("blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("theme this website")
+            ],
+
+            "Images" => [
+                "text"  => t("images"),
+                "url"   => $this->di->get("url")->create("images"),
                 "title" => t("theme this website")
             ],
         ],

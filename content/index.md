@@ -12,8 +12,7 @@ Det här är en hemsida skapad med hjälp av Anax Flat som bas. Detta är en bas
 
 Jag heter Nicklas Envall och har bott i Stockholm hela mitt liv.
 
-![Jag själv](cimage/imgd.php?src=presentation1.jpg&w=400)
-
+[FIGURE src="image/presentation1.jpg&w=400" class="right"]
 
 Du hittar mer bilder på mig, i min me-sida för Javascript kursen, [här](http://www.student.bth.se/~nien16/dbwebb-kurser/javascript1/me/me.html)
 

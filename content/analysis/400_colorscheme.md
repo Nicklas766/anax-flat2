@@ -17,9 +17,9 @@ som är baserad på min personliga åsikt.
 Den första webbplatsen som vi ska ta en närmare titt på — känd som den är — är
 Youtube.
 
-![webbplats1](cimage/imgd.php?src=youtubebild.png)
+[FIGURE src="image/youtubebild.png"]
 
-En bild på hemsidan, högerklicka och sedan "visa bild" för hela bilden.
+En bild på hemsidan, tryck på bilden för att se hela bilden.
 
 <h3>Färger</h3>
 
@@ -63,9 +63,10 @@ tagit bort det verkliga målet, som är att saker ska tryckas på.
 Den andra webbplatsen som vi ska titta på är Vapiano.se, som är en restaurangen i verkliga livet.
 Vapianorestauranger finns utspritt runt om i världen, men vi ska fokusera på den svenska sidan.
 
-![webbplats2](cimage/imgd.php?src=vapiano.png)
 
-En bild på hemsidan, högerklicka och sedan "visa bild" för hela bilden.
+[FIGURE src="image/vapiano.png"]
+
+En bild på hemsidan, tryck på bilden för att se hela bilden.
 
 
 <h3>Färger</h3>
@@ -100,9 +101,11 @@ som accentfärg är förståeligt. Sidan lyckas visa upp sin verksamhet på ett 
 
 Aftonbladet är en svensk kvälls- och nättidning. Deras hemsida är fylld med en massa artiklar.
 
-![webbplats2](cimage/imgd.php?src=aftonbladet.png)
 
-En bild på hemsidan, högerklicka och sedan "visa bild" för hela bilden.
+[FIGURE src="image/aftonbladet.png"]
+
+En bild på hemsidan, tryck på bilden för att se hela bilden.
+
 
 <h3>Färger</h3>
 
@@ -138,9 +141,9 @@ bör titta på. Så de lyckas tycker jag. Tycker de lyckas göra en helt okej he
 
 Wikipedia (WP) är en wiki och ett mångspråkigt webbaserat uppslagsverk med i huvudsak fritt och öppet innehåll som utvecklas av sina användare.
 
-![webbplats2](cimage/imgd.php?src=wikipedia.png)
+[FIGURE src="image/wikipedia.png"]
 
-En bild på hemsidan, högerklicka och sedan "visa bild" för hela bilden.
+En bild på hemsidan, tryck på bilden för att se hela bilden.
 
 <h3>Färger</h3>
 
