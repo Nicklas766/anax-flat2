@@ -45,11 +45,6 @@ return [
                 "title" => t("Analysis this website")
             ],
 
-            "theme" => [
-                "text"  => t("Theme"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Theme this website")
-            ],
 
             "blogg" => [
                 "text"  => t("Blogg"),
@@ -63,10 +58,37 @@ return [
                 "title" => t("images")
             ],
 
+            "Themes" => [
+                           "text"  =>"<i class=\"fa fa-book\"></i> Theme",
+                           "url"   => $this->di->get("url")->create("themeMenu"),
+                           "title" => "Delta i communityn",
+                           "submenu" => [
+                               "items" => [
+                                   "theme"  => [
+                                       "text"  => "Theme",
+                                       "url"   => $this->di->get("url")->create("theme"),
+                                       "title" => "Färgschema",
+                                   ],
+                                   "design-principle"  => [
+                                       "text"  => "Designprinciper",
+                                       "url"   => $this->di->get("url")->create("design-principle"),
+                                       "title" => "Designprinciper",
+                                   ],
+                                   "design-element"  => [
+                                       "text"  => "Designelements",
+                                       "url"   => $this->di->get("url")->create("design-element"),
+                                       "title" => "Designelements",
+                                   ],
+                               ],
+                           ],
+                       ],
+
 
 
         ],
     ],
+
+
 
 
 
@@ -121,7 +143,7 @@ return [
 
             "Theme" => [
                 "text"  => t("theme"),
-                "url"   => $this->di->get("url")->create("theme"),
+                "url"   => $this->di->get("url")->create("themeMenu"),
                 "title" => t("theme this website")
             ],
 

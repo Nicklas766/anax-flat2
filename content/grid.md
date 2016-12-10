@@ -8,6 +8,7 @@ views:
             meta:
                 type: content
                 route: block/sidebar
+
 ...
 
 Grid

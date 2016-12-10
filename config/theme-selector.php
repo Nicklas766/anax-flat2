@@ -66,5 +66,47 @@ return [
             "class"      => "fun",
             "stylesheets" => "css/fun.min.css"
         ],
+
+        "separator3" => "------------------------------------------------",
+
+        "djup"       => [
+            "title"      => "Ett djupt tema",
+            "class"      => "djup",
+            "stylesheets" => "css/djup.min.css"
+        ],
+
+        "kontrast"       => [
+            "title"      => "Ett kontrast tema",
+            "class"      => "kontrast",
+            "stylesheets" => "css/kontrast.min.css"
+        ],
+
+        "emphasis"       => [
+            "title"      => "Ett emphasis tema",
+            "class"      => "emphasis",
+            "stylesheets" => "css/emphasis.min.css"
+        ],
+
+        "separator4" => "------------------------------------------------",
+
+        "Ice tema"       => [
+            "title"      => "Opacity, bakgrundsbild och lines.",
+            "class"      => "element1",
+            "stylesheets" => "css/element1.min.css"
+        ],
+
+        "DJ tema"       => [
+            "title"      => "Struktur med bild, centrerad och bilder som designelement.",
+            "class"      => "element2",
+            "stylesheets" => "css/element2.min.css"
+        ],
+
+        "Fullt tema"       => [
+            "title"      => "Hel bredd, gradients",
+            "class"      => "element3",
+            "stylesheets" => "css/element3.min.css"
+        ],
+
+
     ]
 ];

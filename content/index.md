@@ -1,5 +1,16 @@
 ---
 titleBreadcrumb: Home
+
+
+views:
+    sidebar2:
+        region: sidebar-left1
+        template: default/content
+        data:
+            meta:
+                type: content
+                route: block/menuLeft
+
 ...
 Me-sida första sida
 ===============================
