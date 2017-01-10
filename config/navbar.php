@@ -59,7 +59,7 @@ return [
             ],
 
             "Themes" => [
-                           "text"  =>"<i class=\"fa fa-book\"></i> Theme",
+                           "text"  =>"Teman <i class=\"fa fa-caret-down\"></i> ",
                            "url"   => $this->di->get("url")->create("themeMenu"),
                            "title" => "Delta i communityn",
                            "submenu" => [
